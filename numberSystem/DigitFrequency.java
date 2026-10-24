@@ -19,4 +19,4 @@ public class DigitFrequency {
         }
         return count;
     }
-1
+}
